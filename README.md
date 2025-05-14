@@ -1,5 +1,5 @@
 # Automatic-Titer-Tool
-Senior Design Project (ECE Capstone)
+## Senior Design Project (ECE Capstone)
 ![GEL](1.png)
 
 ## Demo Video
